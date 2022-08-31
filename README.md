@@ -1,6 +1,10 @@
-### Hi there 👋
+Gautam Sagar Mallela
+🏆 1x Microsoft Certified 🏆 1x ServiceNow Certified 💢 Software Developer 🐍Python Developer ☕ Java | C++ 👀 C <> HTML </> JavaScript 📱 Android ⚙ Dev-Ops Aspirant 💻 ML 📚 Always A Learner 💢 Philanthropist
 
 <!--
+### Hi there 👋
+
+
 **gautamsagar99/gautamsagar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
